@@ -11,7 +11,7 @@ gifts=['Lisa','Kaitlin','Jan' ];
  
  function countDown(num){
    for (let j=num;j > 0;j=j-1){
-     k=j;
+    let k=j;
      return k;
    }
  }
