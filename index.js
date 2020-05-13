@@ -9,4 +9,12 @@ function writeCards(gifts){
 gifts=['Lisa','Kaitlin','Jan' ];
  writeCards(gifts);
  
- function 
+ function countDown(num){
+   for (let j=num;j > 0;j=j-1){
+     k=j;
+     return k;
+   }
+ }
+ let num=10;
+ countDown(num);
+ 
