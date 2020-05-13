@@ -16,6 +16,6 @@ gifts=['Lisa','Kaitlin','Jan' ];
      return k;
    }
  }
- let num=11;
+ let num=10;
  countDown(num);
  
