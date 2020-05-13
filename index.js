@@ -10,7 +10,7 @@ gifts=['Lisa','Kaitlin','Jan' ];
  writeCards(gifts);
  
   function countDown(num){
-   while(num>0){
+   while(num>=){
    console.log(num);
  num--
    }}
