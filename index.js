@@ -9,13 +9,10 @@ function writeCards(gifts){
 gifts=['Lisa','Kaitlin','Jan' ];
  writeCards(gifts);
  
- function countDown(num){
-   return num;
-   for (let j=num;j > 0;j=j-1){
-    let k=j;
-     return k;
-   }
- }
- let num=4;
- countDown(num);
+  function countDown(num){
+   while(num>0){
+   console.log(num);
+ num--
+   }}
+ countDown(10);
  
