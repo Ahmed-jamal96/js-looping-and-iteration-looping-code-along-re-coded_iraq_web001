@@ -10,6 +10,7 @@ gifts=['Lisa','Kaitlin','Jan' ];
  writeCards(gifts);
  
  function countDown(num){
+   return num;
    for (let j=num;j > 0;j=j-1){
     let k=j;
      return k;
